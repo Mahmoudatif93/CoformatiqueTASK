@@ -1,0 +1,103 @@
+body{
+	color: #999;
+	background-image: url(home.jpg);
+	font-family:'Roboto',sans-serif; 
+	background-size: cover;
+}
+#ChatBig{
+	width: 500px;
+	height: 450px;
+	border:1px solid #000 ;
+	border-width: 10px;
+	margin:auto;
+	border-color: #c5c5c5;
+}
+
+#form{
+		width: 1000;
+	height: 450px;
+	border:1px solid #000 ;
+	border-width: 10px;
+	margin:auto;
+	border-color: #c5c5c5;
+}
+.text{
+		margin-top:150px;
+
+}
+
+
+#ChatMessages{
+	width: 500px;
+	height: 400px;
+	font-size: 19px;
+	font-weight: normal;
+}
+#ChatText{
+	width: 515px;
+	height: 49px;
+	font-size: 14px;
+	border-bottom: 2px solid #333;
+	border:1px solid black;
+	margin-left: 405px
+}
+
+.btn{
+	width: 100px;
+	height: 40px;
+	color:block;
+	margin: 15px;
+	margin-top: 15px;
+
+}
+
+
+
+#msgs{
+
+	margin: 400px;
+	font-family:italic ;
+	font-size: 22px;
+	  font-style: oblique;
+  display: inline;
+
+
+}
+
+
+
+
+
+
+
+.form-header{
+
+border-width: 20px;
+	border:2px solid #eee;
+	padding:100px;
+	margin: 50px;
+	font-size: 20px;
+}
+
+
+
+
+
+
+.up{
+	margin:10px 1000px;
+}
+.signup{width: 100px;
+	height: 30px;
+	background-color: white;
+	color:block;
+	margin: 10px;
+	border:5px solid white;
+}
+
+
+
+
+
+
+}

@@ -1,0 +1,5 @@
+1- base url http://localhost/chats/home.php
+2- i use oop to make login and sign form 
+3- i use AJX to can load msg
+4-delete , update in each msg by id and delete to all chat
+5- if you signed from another browser you can make achat between two users
